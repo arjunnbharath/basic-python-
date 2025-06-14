@@ -1,0 +1,4 @@
+hi everyone
+we are learning file handling in Python.
+using Python
+i like programming in Python.
