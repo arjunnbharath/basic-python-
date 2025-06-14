@@ -1,0 +1,17 @@
+marks=[10,20,30,40,50,60,70,80,90,100]
+l =[4,5,6,2,13]
+print(marks)
+print(len(marks))
+l.append(100)
+l.sort()
+print(l) 
+l.sort(reverse=True)
+print(l)   
+l.reverse()
+print(l)
+l.insert(5, 99)
+print(l)    
+marks.remove(10)
+print(marks)
+marks.pop(0)
+print(marks) 

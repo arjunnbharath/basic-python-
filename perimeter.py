@@ -1,0 +1,7 @@
+print("enter the value of a")
+a=input()
+print("enter the value of b")       
+b=input()
+c=int(a)+int(b)
+d=(2*c)
+print("perimeter is ",d)

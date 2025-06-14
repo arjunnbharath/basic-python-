@@ -1,0 +1,11 @@
+# print("SUM OF TWO NUMBERS")
+# print("Enter the value of a")
+# a = input()
+# print("Enter the value of b")
+# b = input()
+# c = int(a) + int(b)
+# print("Sum is", c)
+
+a=  int (input("Enter the value of a: "))
+b= int(input("Enter the value of b: "))
+print (a>b)
