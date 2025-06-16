@@ -2,7 +2,7 @@ def check_for_line() :
     word ="learning"
     data =True
     lime_no = 1
-    with open("test.txt", "r") as f:
+    with open("input i/test.txt", "r") as f:
         while data:
             data = f.readline()
           

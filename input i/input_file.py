@@ -26,7 +26,7 @@ with open("demo.txt", "r") as f:
     data = f.read()
     print(data)
 # Now appending to the file
-with open("demo.txt", "a") as f:
+with open("input i/demo.txt", "a") as f:
     f.write("This is an appended line.\n")
 # Now reading the file again to see the changes
 with open("demo.txt", "r") as f:
@@ -35,7 +35,7 @@ with open("demo.txt", "r") as f:
 # Now deleting the file
 import os
 if os.path.exists("demo.txt"):
-    os.remove("demo.txt")
+    os.remove("input i/demo.txt")
     print("File deleted successfully")      
 else:
     print("The file does not exist")                

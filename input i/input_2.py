@@ -18,7 +18,7 @@
 
 #SEARCH WORD IN A FILE
 # Uncomment the following lines to create a file named "test.txt" with some content
-# with open("test.txt", "r") as f:
+# with open("input i/test.txt", "r") as f:
 #     data = f.read()
 #     print("enter the word you want to search in the file:")
 #     i = input()

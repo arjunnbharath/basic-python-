@@ -2,7 +2,7 @@ def numbers():
     even_no = []
     odd_no = []
     
-    with open("numbers.txt", "r") as f:
+    with open("input i/numbers.txt", "r") as f:
         data = f.read()
         print("Raw data:", data)
         
